@@ -6,7 +6,7 @@ This project aim to calculate the gpa result by collecting few input from the us
 
 
 ### Data Source
-The were no data used, most of the datas would be provided by the user.
+There were no data used, most of the datas would be provided by the user.
 
 ### Tool
 - Python
